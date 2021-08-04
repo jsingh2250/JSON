@@ -1,0 +1,15 @@
+[
+    {
+        "make": "Dodge",
+        "model": "Challenger",
+        "year": 2013,
+        "color": "Black"
+    },
+
+    {
+        "make": "Ford",
+        "model": "Escape",
+        "year": 2017,
+        "color": "Black"
+    }
+]
