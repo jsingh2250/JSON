@@ -1,0 +1,35 @@
+[
+    {
+        "employeeID": 0,
+        "firstName": "John",
+        "lastName": "Smith",
+        "programmingLanguages": [
+            "C#",
+            "JavaScript",
+            "Python"
+        ],
+        "address": {
+            "street": "123 Fake Street",
+            "city": "New York City",
+            "state": "New York",
+            "zipCode": "10001"
+        }
+    },
+
+    {
+        "employeeID": 1,
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "programmingLanguages": [
+            "C++",
+            "Java",
+            "Visual Basic"
+        ],
+        "address": {
+            "street": "456 Unreal Street",
+            "city": "Los Angeles",
+            "state": "California",
+            "zipCode": "90001"
+        }
+    }
+]
